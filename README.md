@@ -1,4 +1,4 @@
-# Hidden Links Finder
+# HNSFINDER
 
 ** hnsfinder ** is a Python tool designed to find hidden links on websites by scanning the HTML for links that are hidden using `display:none` style attributes. The tool is inspired by the functionality of Subzy and is easy to use via the command line.
 
