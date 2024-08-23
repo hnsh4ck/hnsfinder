@@ -46,3 +46,17 @@ Example Output:
 If no hidden links are found, you'll see:
 
 [INFO] No hidden links found.
+
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+Contact
+
+For any questions or suggestions, feel free to reach out:
+
+    Email: hnsh4ck@gmail.com
+    GitHub: hnsh4ck
