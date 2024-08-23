@@ -16,8 +16,8 @@
 
 1. **Clone the Repository**
 
-   git clone https://github.com/yourusername/hidden-links-finder.git
-   cd hidden-links-finder
+   git clone https://github.com/hnsh4ck/hnsfinder.git
+   cd hnsfinder
    
 ## Install Dependencies
 
@@ -33,7 +33,7 @@ Alternatively, you can install the libraries manually:
 
 To use the tool, simply run the Python script from the command line with the URL of the website you want to scan: 
 
-- python hidden_links_finder.py https://example.com
+- python hnsfinder.py https://example.com
 
 Example Output:
 
